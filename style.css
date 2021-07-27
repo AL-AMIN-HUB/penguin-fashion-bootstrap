@@ -1,0 +1,35 @@
+/* custom css */
+
+.main-bg {
+    background-color: rgb(255 251 235);
+}
+
+.t-color {
+    color: rgb(251 191 36);
+}
+
+.some-t-color {
+    color: #1f2937;
+}
+
+.product-bg {
+    background-color: rgb(229 231 235);
+}
+
+.font-resize-h1 {
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: rgb(251 191 36);
+}
+
+.font-resize-h {
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.woman-title {
+    font-size: 50px;
+    text-transform: uppercase;
+}
